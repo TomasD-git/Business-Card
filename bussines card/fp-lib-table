@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "myownlibrary")(type "KiCad")(uri "C:/Users/thoma/Downloads/myownlibrary.pretty")(options "")(descr ""))
+  (lib (name "PCB Coils")(type "KiCad")(uri "${KIPRJMOD}/pcb_coils/")(options "")(descr "auto-generated coil footprints")))
