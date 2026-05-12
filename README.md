@@ -31,10 +31,10 @@ The schematic is split into four main blocks:
 <img width="1230" height="836" alt="image" src="https://github.com/user-attachments/assets/bb51ca10-9997-4cd6-8ee1-0b612fb8dcd1" />
 
 
-**MCU**: Core microcontroller, configuration of nfc and e-paper, GPIO pins 
-**E-paper interface**: Has 8 exposed pins to solder an E-paper onto the PCB
-**NFC**: NFC IC with antenna matching network, presents as a standard NDEF tag
-**Power**: Power regulation with decoupling
+**MCU**: Core microcontroller, configuration of nfc and e-paper, GPIO pins   
+**E-paper interface**: Has 8 exposed pins to solder an E-paper onto the PCB  
+**NFC**: NFC IC with antenna matching network, presents as a standard NDEF tag  
+**Power**: Power regulation with decoupling  
 
 ---
 
@@ -62,11 +62,11 @@ Designed in KiCad, manufactured as a standard 2-layer board with PCBA. Gerber fi
 
 ## Planned improvements
 
-**User interface**  
-Change firmware so it could be configured with web or custom application.
+**User interface**    
+Change firmware so it could be configured with web or custom application.  
 
-**Custom CAD**
-Some type of CAD to protect mcu.
+**Custom CAD**  
+Some type of CAD to protect mcu.  
 
 </details>
 
